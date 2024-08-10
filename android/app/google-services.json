@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576821357649",
+    "project_id": "eazyposh-c82eb",
+    "storage_bucket": "eazyposh-c82eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576821357649:android:2a43eb309d1faad3ac9c70",
+        "android_client_info": {
+          "package_name": "com.example.flutter1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf0EzBLE8hAgN7wGkw_LQBacq2PMUAN7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
